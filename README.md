@@ -239,7 +239,7 @@ Subscribers are grouped by signup month. A subscriber counts as retained at 3, 6
 
 ## 10. Power BI Dashboard
 
-File: `StreamFlix_Phase4_Dashboard_Bindiya_Anand` (Power BI Desktop report with 5 pages).
+File: [Power BI Dashboard](power_bi_dashboard/`StreamFlix_Phase4_Dashboard_Bindiya_Anand.pbit`)
 
 | Page | Visuals | Slicers |
 |------|---------|---------|
