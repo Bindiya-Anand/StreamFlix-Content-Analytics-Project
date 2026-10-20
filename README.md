@@ -6,6 +6,8 @@ End-to-end analytics project on a video streaming platform dataset: data cleanin
 ![Visualisation](https://img.shields.io/badge/Matplotlib-11557c)
 ![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811)
 
+https://github.com/user-attachments/assets/491aa920-5dee-4d9b-b055-633d2e836614
+
 ---
 
 ## Table of Contents
