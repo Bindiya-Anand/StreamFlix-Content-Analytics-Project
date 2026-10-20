@@ -329,8 +329,8 @@ StreamFlix-Content-Analytics/
 
 ## 14. Viewing the Power BI Dashboard
 
-- **Quick view:** see the dashboard overview video above or the screenshots in [Section 10](#10-power-bi-dashboard) or open the images in `images/dashboard/`.
-- **Interactive view:** download the Power BI dashboard file from (power_bi_dashboard/StreamFlix_Phase4_dashboard_Bindiya_Anand.pbit) and view in the Microsoft Power BI desktop free install.
+- **Quick view:** see the dashboard overview video above or screenshots in [Section 10](#10-power-bi-dashboard) or open the images in `images/dashboard/`.
+- **Interactive view:** download the `.pbit` file from `power_bi_dashboard/` and open it in the free [Power BI Desktop](https://www.microsoft.com/en-in/power-bi). Use the slicers on each page to filter.
 
 ## 15. Limitations and Future Improvements
 
