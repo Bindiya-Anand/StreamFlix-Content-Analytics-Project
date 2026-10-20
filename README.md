@@ -302,8 +302,7 @@ StreamFlix-Content-Analytics/
 │   │   ├── 02_content_performance.png
 │   │   ├── 03_subscriber_insights.png
 │   │   ├── 04_experience.png
-│   │   ├── 05_catalogue_investment.png
-│   │   └── README.md
+│   │   └── 05_catalogue_investment.png
 │   └── plots/
 │       ├── 01_monthly_viewing_volume.png
 │       ├── 02_monthly_watch_hours_trend.png
@@ -319,6 +318,8 @@ StreamFlix-Content-Analytics/
 │   ├── StreamFlix_Phase1_DataCleaning_Bindiya_Anand.ipynb
 │   ├── StreamFlix_Phase2_EDA_Bindiya_Anand.ipynb
 │   └── StreamFlix_Phase3_KPI_Bindiya_Anand.ipynb
+├── power_bi_dashboard/
+│   └── StreamFlix_Phase4_Dashboard_Bindiya_Anand.pbit
 └── reports/
     ├── StreamFlix_Phase1_Data_Quality_Report_Bindiya_Anand.pdf
     ├── StreamFlix_Phase2_EDA_Report_Bindiya_Anand.pdf
@@ -328,8 +329,8 @@ StreamFlix-Content-Analytics/
 
 ## 14. Viewing the Power BI Dashboard
 
-- **Quick view:** see the screenshots in [Section 10](#10-power-bi-dashboard) or open the images in `images/dashboard/`.
-- **Report view:** the written findings are in the [Phase 4 Management Report](reports/StreamFlix_Phase4_Management_Report_Bindiya_Anand.pdf).
+- **Quick view:** see the dashboard overview video above or the screenshots in [Section 10](#10-power-bi-dashboard) or open the images in `images/dashboard/`.
+- **Interactive view:** download the Power BI dashboard file from (power_bi_dashboard/StreamFlix_Phase4_dashboard_Bindiya_Anand.pbit) and view in the Microsoft Power BI desktop free install.
 
 ## 15. Limitations and Future Improvements
 
